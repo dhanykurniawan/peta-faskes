@@ -27,7 +27,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
 
                 <!-- Lookers Studio -->
-                <a href="https://datastudio.google.com/reporting/2408a377-92dc-44af-b0ef-887c45c21065"
+                <a href="https://datastudio.google.com/reporting/"
                    class="group bg-white rounded-3xl shadow-lg hover:shadow-2xl transition-all duration-300 p-10 border border-slate-200 hover:-translate-y-2" target="_blank">
 
                     <div class="flex flex-col items-center text-center">
